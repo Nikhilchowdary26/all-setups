@@ -1,3 +1,5 @@
+#For changing file versions take reference from dlcdn.apache.org website
+
 amazon-linux-extras install java-openjdk<version> -y
 wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.106/bin/apache-tomcat-9.0.106.tar.gz #Edit file version
 tar -zxvf apache-tomcat-9.0.106.tar.gz #Edit file versions
